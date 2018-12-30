@@ -1,0 +1,24 @@
+{
+  "coaches": [
+    {
+      "name": "Ekkalak Leelasornchai",
+      "description": "Full-Stack Software Developer @Altotech",
+      "avatar": "https://scontent.fphs1-1.fna.fbcdn.net/v/t31.0-8/13603328_1307390989271274_30545577225020604_o.jpg?_nc_cat=100&_nc_eui2=AeEeSPwGgFLZJEoWDmKiPLM3xMEbdZvbo_3RFSgr3zC4iIw4TNlPbOT2kxULjymflv17NjEKwx6hRpDLsMWBDqpB-pH0LB1-O8RJNpxJtAXLZg&_nc_ht=scontent.fphs1-1.fna&oh=7d173c50805cf4d3ebb9860c3b6c9b79&oe=5CC6D045"
+    },
+    {
+      "name": "Warodom Khampanchai",
+      "description": "BangkokAI Ambassador",
+      "avatar": "https://scontent.fphs1-1.fna.fbcdn.net/v/t31.0-8/12248232_10153860895079434_6946940514514696770_o.jpg?_nc_cat=110&_nc_eui2=AeEjSpfpz2SzU7GUg3J-O3bQN_4urT2dYp5ouCKQrBldufCidcwwYOWd4wneoqHiLlUiEPUMB99_QtYiOPLiyjW5oRtWVJfm8U-mLvrv1YXO_Q&_nc_ht=scontent.fphs1-1.fna&oh=0b3b9951f8ea1a0743067dcfacad76ee&oe=5CCB511D"
+    },
+    {
+      "name": "Nivit Nantanivatikul",
+      "description": "Scuba diver @ Altotech",
+      "avatar": "https://scontent.fphs1-1.fna.fbcdn.net/v/t1.0-1/c0.0.958.958a/39385840_10216837206783153_2703196147735855104_n.jpg?_nc_cat=104&_nc_eui2=AeGIt96SbCo1HilqOWmxErQJQjIxmaNsUiPnS0NeNVTPIsHHPvvfZNTg0PF5g74XSVuYP4kIT0vNNdfoBEZJDKC9wsuxk5Dvat5CRfPEnN4wag&_nc_ht=scontent.fphs1-1.fna&oh=bfd603ec041846264a2dba30b8ff7414&oe=5C967777"
+    },
+    {
+      "name": "Focus Jiraphat",
+      "description": "EIEI",
+      "avatar": "https://scontent.fphs1-1.fna.fbcdn.net/v/t1.0-9/48377922_2389906984367404_6129700389102026752_n.jpg?_nc_cat=101&_nc_eui2=AeGNrmx63sfC-qncyg8QzlFZreHbwI0hmSG5JT_okKopF8FQAIstyErhEdTRBmDSGbJuSrcZQX8vZ1tgejQ5h6lVTtfSHHX0PG-iH11ninmbzg&_nc_ht=scontent.fphs1-1.fna&oh=f353ea31cb7ebd164f8a2d12b1c159e5&oe=5C8D5872"
+    }
+  ]
+}
