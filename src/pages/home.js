@@ -1,4 +1,4 @@
-import '../../public/assets/theme-style.css'
+import '../theme-style.css'
 import React from 'react'
 import { Link } from 'gatsby'
 import { coaches } from './coach-data.json'
@@ -77,7 +77,7 @@ const Home = () => (
         <div className="mbr-row mbr-justify-content-center">
           <div className="image-block mbr-col-sm-12 mbr-col-md-6">
             <img
-              src={require('../../public/assets/images/02.jpg')}
+              src={require('../images/02.jpg')}
               width="540"
               height="360"
               alt="Mobirise"

@@ -1,4 +1,4 @@
-import '../../public/assets/theme-style.css'
+import '../theme-style.css'
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
@@ -10,7 +10,7 @@ const Header = ({ siteTitle }) => (
       <div className="brand">
         <span className="brand-logo" style={{ marginRight: '8px' }}>
           <img
-            src={require('../../public/assets/images/logo1.png')}
+            src={require('../images/logo1.png')}
             width="55.87765957446808"
             height="55"
             className="mobirise-loader"

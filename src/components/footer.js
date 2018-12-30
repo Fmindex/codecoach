@@ -1,4 +1,4 @@
-import '../../public/assets/theme-style.css'
+import '../theme-style.css'
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
