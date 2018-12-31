@@ -1,33 +1,33 @@
 import '../theme-style.css'
-import { Link } from 'gatsby'
-import PropTypes from 'prop-types'
 import React from 'react'
-import Img from 'gatsby-image'
+import { Link } from 'gatsby'
 
-const Header = ({ siteTitle }) => (
-  <section className="menu cid-rdrPOnuCJb" id="menu1-0" style={{}}>
-    <nav className="headerbar sticky-nav">
-      <div className="brand">
-        <span className="brand-logo" style={{ marginRight: '8px' }}>
-          <img
-            src={require('../images/logo1.png')}
-            width="55.87765957446808"
-            height="55"
-            className="mobirise-loader"
-          />
-        </span>
-        <p className="brand-name mbr-fonts-style display-2">{siteTitle}</p>
+const Header = () => (
+  <>
+    <section className="header4 cid-rdrPUMJvk7 mbr-fullscreen" id="header4-1">
+      <div className="container">
+        <h1 className="mbr-fonts-style mbr-section-title align-left mbr-black mbr-bold display-1">
+          CodeCoach
+        </h1>
+        <h2 className="mbr-fonts-style mbr-section-subtitle align-left mbr-black mbr-light display-2">
+          Finding your coach
+          <br />
+          Solve your problems, together
+          <br />
+          <div className="mbr-section-btn align-left">
+            <Link to="/home2/">
+              <div
+                className="btn btn-primary display-4"
+                style={{ marginLeft: '0px', marginTop: '16px' }}
+              >
+                FIND YOUR COACH
+              </div>
+            </Link>
+          </div>
+        </h2>
       </div>
-    </nav>
-  </section>
+    </section>
+  </>
 )
-
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
-}
 
 export default Header
