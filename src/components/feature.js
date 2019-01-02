@@ -25,9 +25,7 @@ const Feature = () => (
                   Higher Perfomance
                 </h4>
                 <p className="mbr-text mbr-fonts-style align-left display-7">
-                  Web pages and ads published in the AMP open-source format load
-                  near instantly, giving users a smooth, more engaging
-                  experience on mobile and desktop.
+                  We are FM ekkalak le elasonrhcai
                 </p>
               </div>
             </div>
@@ -49,9 +47,7 @@ const Feature = () => (
                   Flexibility and Results
                 </h4>
                 <p className="mbr-text mbr-fonts-style align-left display-7">
-                  Publishers and advertisers can decide how to present their
-                  content and what technology vendors to use, all while
-                  maintaining and improving key performance indicators.
+                  We are FM ekkalak le elasonrhcai
                 </p>
               </div>
             </div>

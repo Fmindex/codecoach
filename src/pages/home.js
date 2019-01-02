@@ -6,6 +6,7 @@ import SEO from '../components/seo'
 import Feature from '../components/feature'
 import Coaches from '../components/coaches'
 import BecomeCoache from '../components/become-coach'
+import HowToUse from '../components/how-to-use'
 import Header from '../components/header'
 
 const Home = () => (
@@ -13,6 +14,7 @@ const Home = () => (
     <Header />
     <Coaches />
     <Feature />
+    <HowToUse />
     <BecomeCoache />
   </>
 )
