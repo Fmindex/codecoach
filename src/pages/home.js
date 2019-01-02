@@ -12,8 +12,8 @@ import Header from '../components/header'
 const Home = () => (
   <>
     <Header />
-    <Coaches />
     <Feature />
+    <Coaches />
     <HowToUse />
     <BecomeCoache />
   </>

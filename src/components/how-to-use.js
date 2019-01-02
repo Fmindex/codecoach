@@ -25,6 +25,48 @@ const BecomeCoach = () => (
             />
           </div>
         </div>
+
+        <div className="mbr-row mbr-justify-content-center">
+          <div className="image-block mbr-col-sm-12 mbr-col-md-6">
+            <img
+              src={require('../images/02.jpg')}
+              width="540"
+              height="240"
+              alt="Mobirise"
+              className="mobirise-loader"
+            />
+          </div>
+          <div className="text-block mbr-col-sm-12 mbr-col-md-6">
+            <h3 className="mbr-section-title mbr-fonts-style align-left display-5">
+              STEP 2
+            </h3>
+            <p className="mbr-fonts-style mbr-text align-left display-7">
+              We'll confirm the appointment and send you the link to meet your
+              coach
+            </p>
+          </div>
+        </div>
+
+        <div className="mbr-row mbr-justify-content-center">
+          <div className="text-block mbr-col-sm-12 mbr-col-md-6">
+            <h3 className="mbr-section-title mbr-fonts-style align-left display-5">
+              STEP 3
+            </h3>
+            <p className="mbr-fonts-style mbr-text align-left display-7">
+              Hello
+            </p>
+          </div>
+
+          <div className="image-block mbr-col-sm-12 mbr-col-md-6">
+            <img
+              src={require('../images/02.jpg')}
+              width="540"
+              height="240"
+              alt="Mobirise"
+              className="mobirise-loader"
+            />
+          </div>
+        </div>
       </div>
     </section>
   </>
